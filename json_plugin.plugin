@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=json_plugin
+IAge=3
+Name=Format JSON
+Description=One click JSON pretty formatting
+Authors=Piotr Wardecki dev@wardecki.com.pl
+Copyright=Copyright © 2016 Piotr Wardecki dev@wardecki.com.pl
+Website=https://github.com/wardecki/gedit-json
